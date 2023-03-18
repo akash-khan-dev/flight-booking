@@ -1,0 +1,45 @@
+.forms {
+  width: 1200px;
+  height: 100vh;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.form-box {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(240, 248, 255, 0.849);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.from-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#standard-select-currency-native-label {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.836);
+}
+
+.icon svg {
+  margin-top: 15px;
+  margin-right: 5px;
+}
+.person {
+  width: 150px;
+  margin-right: 10px !important;
+}
+.btn {
+  margin-left: 10px !important;
+}
+
+.btn button {
+  width: 80px;
+  height: 40px;
+  background-color: rgb(182, 209, 200);
+}
